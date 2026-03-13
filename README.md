@@ -91,20 +91,6 @@ const jiangkoumo = {
 
 ---
 
-## 🐍 贡献蛇形图
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiangkoumo/jiangkoumo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiangkoumo/jiangkoumo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jiangkoumo/jiangkoumo/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 ## 📫 联系我
 
 <div align="center">
