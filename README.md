@@ -8,7 +8,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 关于我
+## 👨‍💻 关于我
+
+> 🎓 来自中国的学生，热爱编程，持续学习中
 
 ```javascript
 const jiangkoumo = {
@@ -22,15 +24,10 @@ const jiangkoumo = {
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🎓 来自中国的学生，热爱编程
 - 🌱 正在学习 **C / C++ / Python**
 - 🎯 目标：成为全栈开发者
 - 💬 欢迎交流编程相关话题
 - 📫 联系我：**jiangkoumo@icloud.com**
-
-<br clear="both"/>
 
 ---
 
