@@ -8,9 +8,17 @@
 
 ---
 
-## 👨‍💻 关于我
+## 🧑‍💻 关于我
 
 > 🎓 来自中国的学生，热爱编程，持续学习中
+
+- 🌱 正在学习 **C / C++ / Python**
+- 🎯 目标：成为全栈开发者
+- 💬 欢迎交流编程相关话题
+- 📫 联系我：**jiangkoumo@icloud.com**
+
+<details>
+<summary>📜 点击展开代码名片</summary>
 
 ```javascript
 const jiangkoumo = {
@@ -19,15 +27,11 @@ const jiangkoumo = {
     currentlyLearning: ["C", "C++", "Python"],
     interests: ["算法", "系统编程", "移动开发"],
     contact: "jiangkoumo@icloud.com",
-
     dailyRoutine: () => "写代码 → 调试 → 学习 → 重复 🔁"
 };
 ```
 
-- 🌱 正在学习 **C / C++ / Python**
-- 🎯 目标：成为全栈开发者
-- 💬 欢迎交流编程相关话题
-- 📫 联系我：**jiangkoumo@icloud.com**
+</details>
 
 ---
 
