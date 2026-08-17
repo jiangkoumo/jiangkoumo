@@ -35,10 +35,9 @@
     </td>
     <td width="62%" valign="top">
       <h3>FEATURED PROJECT</h3>
-      <a href="https://github.com/jiangkoumo/car">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jiangkoumo&repo=car&hide_border=true&bg_color=00000000&title_color=123FCE&text_color=718096&icon_color=168A39" alt="循迹小车项目" />
-      </a>
-      <p><strong>循迹小车 / Line-Following Car</strong><br />校赛循迹小车代码与开发日志。</p>
+      <h4>循迹小车 / Line-Following Car</h4>
+      <p>校赛循迹小车代码与开发日志，让代码在真实世界里运行起来。</p>
+      <p><a href="https://github.com/jiangkoumo/car"><strong>View repository →</strong></a></p>
     </td>
   </tr>
 </table>
