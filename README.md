@@ -1,113 +1,112 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=江口墨&fontSize=80&fontAlignY=35&animation=twinkling&desc=编程学习者%20|%20代码爱好者&descAlignY=55&descSize=20)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,50:5B8DEF,100:2CB67D&text=江口墨&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Student%20%C2%B7%20Developer%20%C2%B7%20Lifelong%20Learner&descAlignY=57&descSize=18&animation=fadeIn" alt="江口墨的个人主页封面" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+江口墨+👋;A+Student+%26+Developer+from+China+🇨🇳;Always+learning+new+things+💡;Code+%7C+Debug+%7C+Learn+%7C+Repeat+🔄" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+Jiangkoumo+%F0%9F%91%8B;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E;Code+%C2%B7+Debug+%C2%B7+Learn+%C2%B7+Repeat" alt="动态介绍" />
+</a>
+
+<br />
+
+<a href="#-关于我"><img src="https://img.shields.io/badge/About-7F5AF0?style=flat-square&logo=aboutdotme&logoColor=white" alt="About" /></a>
+<a href="#-技术栈"><img src="https://img.shields.io/badge/Tech-5B8DEF?style=flat-square&logo=stackshare&logoColor=white" alt="Tech" /></a>
+<a href="#-github-数据"><img src="https://img.shields.io/badge/Stats-2CB67D?style=flat-square&logo=github&logoColor=white" alt="Stats" /></a>
+<a href="#-联系我"><img src="https://img.shields.io/badge/Contact-F59E0B?style=flat-square&logo=minutemailer&logoColor=white" alt="Contact" /></a>
+
+<br /><br />
+
+<samp>保持好奇，持续构建。把每一次报错，都变成下一次进步。</samp>
 
 </div>
 
----
+## 👋 关于我
 
-## 🧑‍💻 关于我
-
-> 🎓 来自中国的学生，热爱编程，持续学习中
-
-- 🌱 正在学习 **C / C++ / Python**
-- 🎯 目标：成为全栈开发者
-- 💬 欢迎交流编程相关话题
-- 📫 联系我：**jiangkoumo@icloud.com**
-
-<details>
-<summary>📜 点击展开代码名片</summary>
-
-```javascript
-const jiangkoumo = {
-    location: "中国 🇨🇳",
-    role: "学生 & 开发者",
-    currentlyLearning: ["C", "C++", "Python"],
-    interests: ["算法", "系统编程", "移动开发"],
-    contact: "jiangkoumo@icloud.com",
-    dailyRoutine: () => "写代码 → 调试 → 学习 → 重复 🔁"
-};
+```yaml
+name: 江口墨
+role: 学生 / 开发者
+location: 中国
+focus:
+  - 算法与系统编程
+  - 移动应用开发
+  - 用代码解决真实问题
+currently_learning:
+  - C / C++
+  - Python
+  - Java / Swift
+motto: "Stay curious. Keep building."
 ```
 
-</details>
+- 🌱 正在持续打磨编程基础与工程实践
+- 🚗 做过校赛循迹小车项目，喜欢让代码在真实世界里跑起来
+- 🎯 目标是成长为能够独立完成产品的全栈开发者
+- 💬 欢迎交流技术、学习方法与有趣的项目想法
 
----
-
-## 🛠️ 技术栈
+## 🧰 技术栈
 
 <div align="center">
 
-#### 💻 编程语言
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,swift,git,androidstudio,vscode,ai&theme=dark&perline=9" alt="C, C++, Python, Java, Swift, Git, Android Studio, VS Code 与 Illustrator" />
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<br /><br />
 
-#### 🔧 工具 & 平台
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </div>
 
----
+## 🚀 项目足迹
 
-## 📈 GitHub 数据
+<table>
+  <tr>
+    <td width="70">
+      <div align="center">🚗</div>
+    </td>
+    <td>
+      <a href="https://github.com/jiangkoumo/car"><strong>循迹小车</strong></a><br />
+      校赛循迹小车代码与开发日志，让软件与硬件一起动起来。
+    </td>
+  </tr>
+</table>
+
+> 更多作品正在路上。比起一次写完，我更相信持续迭代。
+
+## 📊 GitHub 数据
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jiangkoumo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangkoumo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=6" />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiangkoumo&show_icons=true&hide_border=true&bg_color=00000000&title_color=7F5AF0&icon_color=2CB67D&text_color=718096&rank_icon=github&locale=cn" alt="GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangkoumo&layout=compact&hide_border=true&bg_color=00000000&title_color=7F5AF0&text_color=718096&langs_count=6&locale=cn" alt="常用语言" />
+</p>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiangkoumo&bg_color=00000000&color=7F5AF0&line=5B8DEF&point=2CB67D&area=true&area_color=7F5AF0&hide_border=true&custom_title=%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8%E5%9B%BE" alt="贡献活动图" />
 
 </div>
 
-<div align="center">
-
-![](https://github-readme-streak-stats.vercel.app/?user=jiangkoumo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
+## 🤝 联系我
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jiangkoumo&theme=react-dark&hide_border=true&area=true&custom_title=贡献活动图" />
+<a href="mailto:jiangkoumo@icloud.com">
+  <img src="https://img.shields.io/badge/Email-jiangkoumo%40icloud.com-7F5AF0?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/jiangkoumo">
+  <img src="https://img.shields.io/badge/GitHub-jiangkoumo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-</div>
+<br /><br />
 
----
+<img src="https://komarev.com/ghpvc/?username=jiangkoumo&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="主页访问量" />
 
-## 🏆 成就展示
+<br /><br />
 
-<div align="center">
+<samp>如果你也在学习或构建有趣的东西，欢迎来聊聊 ✨</samp>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=jiangkoumo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📫 联系我
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-jiangkoumo@icloud.com-EA4335?style=for-the-badge&logoColor=white)](mailto:jiangkoumo@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jiangkoumo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangkoumo)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jiangkoumo&color=F85D7F&style=flat-square&label=访问量)
-
-**💡 "代码改变世界，学习成就未来"**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7F5AF0,50:5B8DEF,100:2CB67D" alt="页脚装饰" />
 
 </div>
