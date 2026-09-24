@@ -27,7 +27,7 @@
 <div align="center">
 
 <samp><strong>&gt;_ Get in touch</strong></samp>&nbsp;&nbsp;
-<a href="mailto:jiangkoumo@icloud.com">jiangkoumo@icloud.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:jiangkoumo@icloud.com">jiangkoumo@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/jiangkoumo">github.com/jiangkoumo</a>
 
 <br /><br />
